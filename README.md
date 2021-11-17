@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jessoy
-- 🌱 I’m currently learning to code in JavaScript, HTML and CSS
+- 🌱 I’m learning to code in JavaScript, HTML and CSS!
 
 
 <!---
